@@ -1,0 +1,13 @@
+keywords,prediction,prediction_numeric
+customer,customer,1
+location,customer,1
+relationship,employee,2
+culture,employee,2
+financial,finance,3
+cash,finance,3
+finance,finance,3
+industry,industry,4
+growth,industry,4
+management,management,5
+human,management,5
+consist,management,5
